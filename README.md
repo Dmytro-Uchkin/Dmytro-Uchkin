@@ -5,7 +5,7 @@
 I build web applications, AI-powered tools and data-driven products.
 I enjoy turning complex problems into simple, pragmatic solutions.
 
-I'm a Senior Software Engineer with 9+ years of experience**, currently exploring **AI, LLMs**, agentic workflows, Python, **Data Science** and **Machine Learning**.
+I'm a Senior Software Engineer with 9+ years of experience, currently exploring **AI, LLMs**, agentic workflows, Python, **Data Science** and **Machine Learning**.
 
 ### 🚀 What I'm working on
 
