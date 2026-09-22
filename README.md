@@ -15,4 +15,4 @@ I'm a Senior Software Engineer with 9+ years of experience**, currently explorin
 
 ### 🛠️ Tools I've been using lately
 
-<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,nestjs,aws,postgres,dynamodb,kafka,graphql" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,nestjs,aws,postgres,mongodb,kafka,graphql,fastapi&perline=7&theme=light" alt="Technology stack" />
