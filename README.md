@@ -22,7 +22,7 @@ I'm a **Senior Software Engineer with 9+ years of experience**, currently explor
 </td>
 <td width="44%" valign="middle">
 
-<img src="./assets/workspace.png" width="100%" alt="Dmytro's workspace illustration" />
+<img src="./assets/workspace.png" href="https://github.com/Dmytro-Uchkin" width="100%" alt="Dmytro's workspace illustration" />
 
 </td>
 </tr>
